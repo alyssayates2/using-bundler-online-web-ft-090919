@@ -8,4 +8,5 @@ gem "pry"
 end
 
 def Bundler
-end 
+  gem 'sinatra', '~> 2.0', '>= 2.0.7'
+end
