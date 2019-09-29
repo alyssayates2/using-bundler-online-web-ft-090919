@@ -3,5 +3,5 @@ gems "rspec"
 gems "sinatra"
 
 group :development do
-  
+  gem "pry"
 end
