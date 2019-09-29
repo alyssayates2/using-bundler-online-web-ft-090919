@@ -1,6 +1,5 @@
 source "https://rubygems.org"
-gem "rspec", :test "test" do 
-  bundle_output
+gem "rspec"
 end
 gem "sinatra", "1.4.4"
 gem "hashie"
