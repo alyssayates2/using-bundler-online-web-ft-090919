@@ -1,7 +1,7 @@
-source "https://www.rubygems.org"
+source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
 
 group :development do
-  gem "pry"
+gem "pry"
 end
