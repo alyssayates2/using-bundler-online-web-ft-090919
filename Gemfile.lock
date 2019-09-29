@@ -41,7 +41,7 @@ DEPENDENCIES
   hashie
   pry
   rspec
-  sinatra-partial (~> 1.0, >= 1.0.1)
+  sinatra-partial (>= 1.0.1)
 
 BUNDLED WITH
    2.0.1
